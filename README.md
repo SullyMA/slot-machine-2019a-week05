@@ -1,24 +1,29 @@
-# 🎰 Week05 Bootcamp2019a Project: Slot Machine
+# Slot Machine
+A slot machine game made with jQuery
 
-### Goal: Build a Simple Slot Machine
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+![alt tag](./screenshoot.png)
 
-### How to submit your code for review:
+## How It's Made:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**Tech used:** HTML, CSS, jQuery
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+This is a very simple slot machine application. There are three reels with five slots each. The reels are represented by empty divs and the images for each slot are stored as indexes within an array. When the use clicks the "Pull Lever" button, a function is executed the generates a random number between 0 and 5. Based upon that number, the function will change the image source of a div to a random image from the array.
+
+<!-- ## Optimizations
+Refactor CSS -->
+
+## Lessons Learned:
+Utilizing randomization
+
+
+
+## Examples:
+Take a look at other examples that I have in my own portfolio:
+
+<!-- **Wu Tang Name Generator:** https://tariqnaziri.github.io/wu-tang-name-generator/
+
+**Voicebox:** https://tariqnaziri.github.io/voicebox/
+
+**Coffee Shop** https://github.com/tariqnaziri/coffee-shop -->

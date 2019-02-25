@@ -1,0 +1,11 @@
+#reelOne, #reelTwo, #reelThree {
+  border: solid purple 2px;
+  height: 100px;
+  width: 80px;
+  display: inline-block;
+}
+
+img {
+  width: 80px;
+  height: auto;
+}
