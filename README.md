@@ -1,8 +1,6 @@
 # Slot Machine
 A slot machine game made with jQuery
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
-
 ![alt tag](./screenshoot.png)
 
 ## How It's Made:
