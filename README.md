@@ -15,12 +15,9 @@ This is a very simple slot machine application. There are three reels with five 
 Refactor CSS -->
 
 ## Lessons Learned:
-Utilizing randomization
+Learning how to use math random and math round
 
 
-
-## Examples:
-Take a look at other examples that I have in my own portfolio:
 
 <!-- **Wu Tang Name Generator:** https://tariqnaziri.github.io/wu-tang-name-generator/
 
